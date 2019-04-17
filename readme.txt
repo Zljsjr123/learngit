@@ -1,2 +1,2 @@
-Git is a versision control system.
+Git is a distributed versision control system.
 Git is free software
